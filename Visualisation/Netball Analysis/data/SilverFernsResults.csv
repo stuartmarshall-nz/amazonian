@@ -1,0 +1,539 @@
+YEAR,DATE,,EVENT,TYPE,OPP,VENUE,CITY,COUNTRY,NZ.SCORE,OPP.SCORE,COACH,CAPTAIN
+2022,Aug 2,,Commonwealth Games,,TTO,NEC Arena,Birmingham,ENG,,,,
+2022,Aug 1,,Commonwealth Games,,MAW,NEC Arena,Birmingham,ENG,69,50,D. Taurua,G. Crampton / G. Crampton
+2022,Jul 30,,Commonwealth Games,,UGA,NEC Arena,Birmingham,ENG,53,40,D. Taurua,G. Crampton
+2022,Jul 29,,Commonwealth Games,,NIR,NEC Arena,Birmingham,ENG,79,20,D. Taurua,G. Crampton
+2022,Jul 16,,Cadbury Netball Series*,Final,NZ Men,Pulman Arena,Auckland,NZL,48,67,,
+2022,Jul 15,,Cadbury Netball Series*,,Mixed Invitational,Pulman Arena,Auckland,NZL,68,59,,
+2022,Jul 14,,Cadbury Netball Series*,,NZ Men,Pulman Arena,Auckland,NZL,46,61,D. Fuller,G. Crampton
+2022,Jul 13,,Cadbury Netball Series*,,NZA,Pulman Arena,Auckland,NZL,67,48,D. Fuller,G. Crampton
+2022,Jan 19,,Quad Series,,RSA,Copper Box Arena,London,ENG,51,50,D. Taurua,G. Crampton
+2022,Jan 18,,Quad Series,,RSA,Copper Box Arena,London,ENG,54,43,D. Taurua,G. Crampton
+2022,Jan 16,,Quad Series,,ENG,Copper Box Arena,London,ENG,46,49,D. Taurua,G. Crampton
+2022,Jan 15,,Quad Series,,AUS,Copper Box Arena,London,ENG,39,53,D. Taurua,G. Crampton
+2021,Oct 12,,Cadbury Netball Series*,,NZ Men,TSB Arena,Wellington,NZL,53,57,D. Taurua,
+2021,Oct 11,,Cadbury Netball Series*,,NZ Men,TSB Arena,Wellington,NZL,59,58,D. Taurua,
+2021,Oct 10,,Cadbury Netball Series*,,NZ Men,TSB Arena,Wellington,NZL,58,47,D. Taurua,
+2021,Sep 24,,Taini Jamison Trophy,,ENG,Christchurch Arena,Christchurch,NZL,45,49,D. Taurua,S. Winders
+2021,Sep 22,,Taini Jamison Trophy,,ENG,Christchurch Arena,Christchurch,NZL,45,55,D. Taurua,S. Fitzpatrick
+2021,Sep 20,,Taini Jamison Trophy,,ENG,Christchurch Arena,Christchurch,NZL,48,42,D. Taurua,G. Crampton
+2021,Mar 7,,Constellation Cup,,AUS,Christchurch Arena,Christchurch,NZL,45,43,D. Taurua,A. Ekenasio
+2021,Mar 6,,Constellation Cup,,AUS,Christchurch Arena,Christchurch,NZL,55,49,D. Taurua,A. Ekenasio
+2021,Mar 3,,Constellation Cup,,AUS,Christchurch Arena,Christchurch,NZL,36,45,D. Taurua,J. Watson / G. Crampton
+2021,Mar 2,,Constellation Cup,,AUS,Christchurch Arena,Christchurch,NZL,49,44,D. Taurua,A. Ekenasio
+2020,Nov 1,,Taini Jamison Trophy,,ENG,Claudelands Arena,Hamilton,NZL,62,47,D. Taurua,A. Ekenasio
+2020,Oct 30,,Taini Jamison Trophy,,ENG,Claudelands Arena,Hamilton,NZL,54,47,D. Taurua,A. Ekenasio
+2020,Oct 28,,Taini Jamison Trophy,,ENG,Claudelands Arena,Hamilton,NZL,58,45,D. Taurua,A. Ekenasio
+2020,Oct 24,,Cadbury Netball Series*,,NZ Men,Fly Palmy Arena,Palmerston North,NZL,55,52,D. Taurua,
+2020,Oct 23,,Cadbury Netball Series*,,NZ U21,Fly Palmy Arena,Palmerston North,NZL,81,33,D. Taurua,J. Watson*
+2020,Oct 22,,Cadbury Netball Series*,,NZ Men,Fly Palmy Arena,Palmerston North,NZL,47,60,D. Taurua,A. Ekenasio
+2020,Oct 21,,Cadbury Netball Series*,,NZA,Fly Palmy Arena,Palmerston North,NZL,59,44,D. Taurua,A. Ekenasio
+2020,Jan 26,,Vitality Netball Nations Cup,,JAM,Copper Box Arena,London,ENG,67,56,D. Taurua,A. Ekenasio
+2020,Jan 25,,Vitality Netball Nations Cup,,RSA,Copper Box Arena,London,ENG,48,41,D. Taurua,A. Ekenasio
+2020,Jan 22,,Vitality Netball Nations Cup,,JAM,Arena Birmingham,Birmingham,ENG,71,45,D. Taurua,A. Ekenasio
+2020,Jan 19,,Vitality Netball Nations Cup,,ENG,Motorpoint Arena,Nottingham,ENG,64,48,D. Taurua,A. Ekenasio
+2019,Oct 27,,Constellation Cup,,AUS,RAC Arena,Perth,AUS,46,53,D. Taurua,L. Langman
+2019,Oct 20,,Constellation Cup,,AUS,Qudos Bank Arena,Sydney,AUS,54,53,D. Taurua,L. Langman
+2019,Oct 16,,Constellation Cup,,AUS,Spark Arena,Auckland,NZL,42,48,D. Taurua,L. Langman
+2019,Oct 13,,Constellation Cup,,AUS,Horncastle Arena,Christchurch,NZL,53,52,D. Taurua,L. Langman
+2019,Jul 22,,Netball World Cup,,AUS,M&S Arena,Liverpool,ENG,52,51,D. Taurua,L. Langman
+2019,Jul 21,,Netball World Cup,,ENG,M&S Arena,Liverpool,ENG,47,45,D. Taurua,L. Langman
+2019,Jul 18,,Netball World Cup,,AUS,M&S Arena,Liverpool,ENG,49,50,D. Taurua,L. Langman
+2019,Jul 16,,Netball World Cup,,NIR,M&S Arena,Liverpool,ENG,77,28,D. Taurua,L. Langman
+2019,Jul 15,,Netball World Cup,,Zim,M&S Arena,Liverpool,ENG,79,36,D. Taurua,L. Langman
+2019,Jul 14,,Netball World Cup,,SIN,M&S Arena,Liverpool,ENG,89,21,D. Taurua,L. Langman
+2019,Jul 13,,Netball World Cup,,BAR,M&S Arena,Liverpool,ENG,78,25,D. Taurua,L. Langman
+2019,Jul 12,,Netball World Cup,,MAW,M&S Arena,Liverpool,ENG,64,45,D. Taurua,L. Langman
+2019,Jun 29,,Cadbury Netball Series*,,NZ Men,Pulman Arena,Auckland,NZL,54,66,D. Taurua,
+2019,Jun 28,,Cadbury Netball Series*,,FIJ,Pulman Arena,Auckland,NZL,88,30,D. Taurua,
+2019,Jun 27,,Cadbury Netball Series*,,NZ Men,Pulman Arena,Auckland,NZL,50,54,D. Taurua,
+2019,Jun 26,,Cadbury Netball Series*,,All Stars,Pulman Arena,Auckland,NZL,61,45,D. Taurua,
+2019,Jan 20,,Netball Quad Series,,RSA,Copper Box Arena,London,ENG,62,60,D. Taurua,L. Langman
+2019,Jan 19,,Netball Quad Series,,AUS,Copper Box Arena,London,ENG,50,53,D. Taurua,L. Langman
+2019,Jan 13,,Netball Quad Series,,ENG,Echo Arena,Liverpool,ENG,41,54,D. Taurua,L. Langman
+2018,Oct 18,,Constellation Cup,,AUS,TSB Arena,Wellington,NZL,47,58,D. Taurua,L. Langman
+2018,Oct 14,,Constellation Cup,,AUS,Claudelands Arena,Hamilton,NZL,55,44,D. Taurua,L. Langman
+2018,Oct 10,,Constellation Cup,,AUS,Townsville Entertainment & Convention Centre,Townsville,AUS,47,56,D. Taurua,L. Langman
+2018,Oct 7,,Constellation Cup,,AUS,Brisbane Entertainment Centre,Brisbane,AUS,42,57,D. Taurua,L. Langman
+2018,Sep 23,,Netball Quad Series,,AUS,Hisense Arena,Melbourne,AUS,55,60,D. Taurua,L. Langman
+2018,Sep 18,,Netball Quad Series,,RSA,ASB Bay Park,Tauranga,NZL,61,37,D. Taurua,L. Langman
+2018,Sep 15,,Netball Quad Series,,ENG,Spark Arena,Auckland,NZL,39,52,D. Taurua,L. Langman
+2018,Apr 15,,Commonwealth Games,,JAM,Coomera Indoor Sports Centre,Gold Coast,AUS,55,60,J. Southby,K. Rore
+2018,Apr 14,,Commonwealth Games,,AUS,Coomera Indoor Sports Centre,Gold Coast,AUS,44,65,J. Southby,K. Rore
+2018,Apr 11,,Commonwealth Games,,ENG,Gold Coast Convention and Exhibition Centre,Gold Coast,AUS,45,54,J. Southby,K. Rore
+2018,Apr 9,,Commonwealth Games,,SCO,Gold Coast Convention and Exhibition Centre,Gold Coast,AUS,60,29,J. Southby,K. Rore
+2018,Apr 8,,Commonwealth Games,,MAW,Gold Coast Convention and Exhibition Centre,Gold Coast,AUS,53,57,J. Southby,K. Rore
+2018,Apr 6,,Commonwealth Games,,WAL,Gold Coast Convention and Exhibition Centre,Gold Coast,AUS,70,44,J. Southby,K. Rore
+2018,Apr 5,,Commonwealth Games,,UGA,Gold Coast Convention and Exhibition Centre,Gold Coast,AUS,64,51,J. Southby,K. Rore
+2018,Mar 24,,Taini Jamison Trophy,,JAM,North Shore Events Centre,Auckland,NZL,53,59,J. Southby,K. Rore
+2018,Mar 23,,Taini Jamison Trophy,,FIJ,North Shore Events Centre,Auckland,NZL,88,27,J. Southby,K. Rore
+2018,Mar 22,,Taini Jamison Trophy,,JAM,North Shore Events Centre,Auckland,NZL,51,59,J. Southby,K. Rore
+2018,Mar 21,,Taini Jamison Trophy,,MAW,North Shore Events Centre,Auckland,NZL,75,42,J. Southby,K. Rore
+2018,Jan 28,,Netball Quad Series,,AUS,Ellispark Arena,Johannesburg,RSA,48,67,J. Southby,K. Rore
+2018,Jan 25,,Netball Quad Series,,RSA,Ellispark Arena,Johannesburg,RSA,51,46,J. Southby,K. Rore
+2018,Jan 20,,Netball Quad Series,,ENG,Copper Box Arena,London,ENG,57,64,J. Southby,K. Rore
+2017,Oct 14,,Constellation Cup,,AUS,Qudos Bank Arena,Sydney,AUS,42,58,J. Southby,K. Rore
+2017,Oct 11,,Constellation Cup,,AUS,Titanium Security Arena,Adelaide,AUS,43,55,J. Southby,K. Rore
+2017,Oct 8,,Constellation Cup,,AUS,Horncastle Arena,Christchurch,NZL,52,60,J. Southby,K. Rore
+2017,Oct 5,,Constellation Cup,,AUS,Spark Arena,Auckland,NZL,54,57,J. Southby,K. Rore
+2017,Sep 13,,Taini Jamison Trophy,,ENG,Claudelands Arena,Hamilton,NZL,62,55,J. Southby,K. Rore
+2017,Sep 10,,Taini Jamison Trophy,,ENG,Pettigrew Green Arena,Napier,NZL,46,49,J. Southby,K. Rore
+2017,Sep 7,,Taini Jamison Trophy,,ENG,Te Rauparaha Arena,Porirua,NZL,62,55,J. Southby,K. Rore
+2017,Sep 3,,Netball Quad Series,,AUS,ILT Stadium Southland,Invercargill,NZL,57,47,J. Southby,K. Rore
+2017,Aug 30,,Netball Quad Series,,ENG,The Trusts Arena,Auckland,NZL,45,49,J. Southby,K. Rore
+2017,Aug 26,,Netball Quad Series,,RSA,Brisbane Entertainment Centre,Brisbane,AUS,63,56,J. Southby,K. Rore
+2017,Feb 8,,Wales Tour,,WAL,Ice Arena Wales,Cardiff,WAL,72,39,J. Southby,K. Rore
+2017,Feb 7,,Wales Tour,,WAL,Ice Arena Wales,Cardiff,WAL,92,27,J. Southby,K. Rore
+2017,Feb 5,,Netball Quad Series,,RSA,SSE Arena,Wembley,ENG,70,39,J. Southby,K. Rore
+2017,Feb 2,,Netball Quad Series,,ENG,Echo Arena,Liverpool,ENG,61,37,J. Southby,K. Rore
+2017,Jan 28,,Netball Quad Series,,AUS,Durban International Convention Centre,Durban,RSA,50,57,J. Southby,K. Rore
+2016,Oct 20,,Constellation Cup,,AUS,ILT Stadium Southland,Invercargill,NZL,45,49,J. Southby,K. Rore
+2016,Oct 15,,Constellation Cup,,AUS,Vector Arena,Auckland,NZL,50,62,J. Southby,K. Rore
+2016,Oct 12,,Constellation Cup,,AUS,Silverdome,Launceston,AUS,53,51,J. Southby,K. Rore
+2016,Oct 9,,Constellation Cup,,AUS,Qudos Bank Arena,Sydney,AUS,56,68,J. Southby,K. Rore
+2016,Sep 17,,Taini Jamison Trophy,,JAM,Energy Events Centre,Rotorua,NZL,66,38,J. Southby,K. Rore
+2016,Sep 14,,Taini Jamison Trophy,,JAM,Central Energy Trust Arena,Palmerston North,NZL,61,38,J. Southby,K. Rore
+2016,Sep 11,,Taini Jamison Trophy,,JAM,Trafalgar Centre,Nelson,NZL,72,34,J. Southby,K. Rore
+2016,Sep 4,,Netball Quad Series,,AUS,Margaret Court Arena,Melbourne,AUS,55,60,J. Southby,K. Rore
+2016,Aug 31,,Netball Quad Series,Round 1,RSA,Claudelands Arena,Hamilton,NZL,65,46,J. Southby,K. Rore
+2016,Aug 27,,Netball Quad Series,Round 1,ENG,Vector Arena,Auckland,NZL,65,39,J. Southby,K. Rore
+2015,Oct 30,,Constellation Cup,Test 4,AUS,Perth Arena,Perth,AUS,58,47,W. Taumaunu,C. Kopua
+2015,Oct 25,,Constellation Cup,Test 3,AUS,Hisense Arena,Melbourne,AUS,50,47,W. Taumaunu,C. Kopua
+2015,Oct 22,,Constellation Cup,Test 2,AUS,Vector Arena,Auckland,NZL,48,58,W. Taumaunu,C. Kopua
+2015,Oct 20,,Constellation Cup,Test 1,AUS,Horncastle Arena,Christchurch,NZL,44,50,W. Taumaunu,C. Kopua
+2015,Aug 16,,Netball World Cup,GMM,AUS,Allphones Arena,Sydney,AUS,55,58,W. Taumaunu,C. Kopua
+2015,Aug 15,,Netball World Cup,SF,ENG,Allphones Arena,Sydney,AUS,50,39,W. Taumaunu,C. Kopua
+2015,Aug 14,,Netball World Cup,Pool,UGA,Allphones Arena,Sydney,AUS,76,33,W. Taumaunu,C. Kopua
+2015,Aug 12,,Netball World Cup,Pool,MAW,Allphones Arena,Sydney,AUS,57,49,W. Taumaunu,C. Kopua
+2015,Aug 11,,Netball World Cup,Pool,JAM,Allphones Arena,Sydney,AUS,55,48,W. Taumaunu,C. Kopua
+2015,Aug 9,,Netball World Cup,Pool,AUS,Allphones Arena,Sydney,AUS,52,47,W. Taumaunu,C. Kopua
+2015,Aug 8,,Netball World Cup,Pool,TTO,Allphones Arena,Sydney,AUS,74,38,W. Taumaunu,C. Kopua
+2015,Aug 7,,Netball World Cup,Pool,BAR,Allphones Arena,Sydney,AUS,73,38,W. Taumaunu,C. Kopua
+2015,Jul 28,,Taini Jamison Trophy,Test 2,RSA,The Trusts Arena,Auckland,NZL,67,28,W. Taumaunu,C. Kopua
+2015,Jul 26,,Taini Jamison Trophy,Test 1,RSA,Claudelands Arena,Hamilton,NZL,68,44,W. Taumaunu,C. Kopua
+2015,Jul 23,,Taini Jamison Trophy,Test 1,FIJ,Te Rauparaha Arena,Porirua,NZL,91,31,W. Taumaunu,C. Kopua
+2015,Jan 22,,Oceania Netball Series,Test 3,FIJ,Vodafone Arena,Suva,FIJ,76,34,W. Taumaunu,L. Langman*
+2015,Jan 20,,Oceania Netball Series,Test 2,SAM,Vodafone Arena,Suva,FIJ,89,23,W. Taumaunu,L. Langman*
+2015,Jan 19,,Oceania Netball Series,Test 1,FIJ,Vodafone Arena,Suva,FIJ,81,28,W. Taumaunu,L. Langman*
+2014,Oct 31,,Taini Jamison Trophy,Test 2,ENG,Arena Manawatu,Palmerston North,NZL,52,38,W. Taumaunu,L. Langman*
+2014,Oct 28,,Taini Jamison Trophy,Test 1,ENG,Energy Events Centre,Rotorua,NZL,38,42,W. Taumaunu,L. Langman*
+2014,Oct 15,,Constellation Cup,Test 4,AUS,Trusts Stadium,Auckland,NZL,47,51,W. Taumaunu,C. Kopua
+2014,Oct 11,,Constellation Cup,Test 3,AUS,Allphones Arena,Sydney,AUS,34,47,W. Taumaunu,C. Kopua
+2014,Oct 8,,Constellation Cup,Test 2,AUS,Hisense Arena,Melbourne,AUS,40,49,W. Taumaunu,C. Kopua
+2014,Oct 2,,Constellation Cup,Test 1,AUS,Stadium Southland,Invercargill,NZL,42,59,W. Taumaunu,C. Kopua
+2014,Aug 3,,Commonwealth Games,Final,AUS,SSE Hydro,Glasgow,SCO,40,58,W. Taumaunu,C. Kopua
+2014,Aug 2,,Commonwealth Games,SF,ENG,SECC Arena,Glasgow,SCO,35,34,W. Taumaunu,C. Kopua
+2014,Jul 30,,Commonwealth Games,Pool,JAM,SECC Arena,Glasgow,SCO,50,42,W. Taumaunu,C. Kopua
+2014,Jul 29,,Commonwealth Games,Pool,LCA,SECC Arena,Glasgow,SCO,88,19,W. Taumaunu,C. Kopua
+2014,Jul 27,,Commonwealth Games,Pool,NIR,SECC Arena,Glasgow,SCO,78,29,W. Taumaunu,C. Kopua
+2014,Jul 26,,Commonwealth Games,Pool,SCO,SECC Arena,Glasgow,SCO,71,14,W. Taumaunu,C. Kopua
+2014,Jul 25,,Commonwealth Games,Pool,MAW,SECC Arena,Glasgow,SCO,50,47,W. Taumaunu,C. Kopua
+2014,Jan 20,,Tri Nations Series,Test 2,ENG,Crystal Palace,London,ENG,49,32,W. Taumaunu,L. Langman*
+2014,Jan 17,,Tri Nations Series,Test 1,JAM,Wembley Arena,London,ENG,52,46,W. Taumaunu,L. Langman*
+2013,Oct 31,,Taini Jamison Trophy,Test 3,MAW,Claudelands Arena,Hamilton,NZL,72,39,W. Taumaunu,C. Kopua
+2013,Oct 27,,Taini Jamison Trophy,Test 2,MAW,Pettigrew Green Arena,Napier,NZL,68,49,W. Taumaunu,C. Kopua
+2013,Oct 24,,Taini Jamison Trophy,Test 1,MAW,TSB Arena,Wellington,NZL,70,32,W. Taumaunu,C. Kopua
+2013,Oct 13,,Constellation Cup,Test 5,AUS,AIS Arena,Canberra,AUS,49,50,W. Taumaunu,C. Kopua
+2013,Oct 7,,Constellation Cup,Test 4,AUS,Rod Laver Arena,Melbourne,AUS,47,52,W. Taumaunu,C. Kopua
+2013,Oct 4,,Constellation Cup,Test 3,AUS,Entertainment Centre,Adelaide,AUS,50,58,W. Taumaunu,C. Kopua
+2013,Sep 19,,Constellation Cup,Test 2,AUS,Vector Arena,Auckland,NZL,45,48,W. Taumaunu,C. Kopua
+2013,Sep 15,,Constellation Cup,Test 1,AUS,Velodrome,Invercargill,NZL,55,51,W. Taumaunu,C. Kopua
+2012,Nov 1,,Quad Series,Test 6,AUS,Claudelands Arena,Hamilton,NZL,48,43,W. Taumaunu,C. Kopua
+2012,Oct 28,,Quad Series,Test 5,RSA,TECT Arena,Tauranga,NZL,63,24,W. Taumaunu,C. Kopua
+2012,Oct 25,,Quad Series,Test 4,ENG,TSB Arena,Wellington,NZL,57,46,W. Taumaunu,C. Kopua
+2012,Oct 21,,Quad Series,Test 3,AUS,Allphones Arena,Sydney,AUS,48,68,W. Taumaunu,C. Kopua
+2012,Oct 17,,Quad Series,Test 2,ENG,Entertainment Centre,Newcastle,AUS,61,43,W. Taumaunu,C. Kopua
+2012,Oct 14,,Quad Series,Test 1,RSA,Entertainment Centre,Adelaide,AUS,63,27,W. Taumaunu,C. Kopua
+2012,Sep 23,,Constellation Cup,Test 3,AUS,CBS Canterbury Arena,Christchurch,NZL,53,59,W. Taumaunu,C. Kopua
+2012,Sep 20,,Constellation Cup,Test 2,AUS,Vector Arena,Auckland,NZL,50,49,W. Taumaunu,C. Kopua
+2012,Sep 16,,Constellation Cup,Test 1,AUS,Hisense Arena,Melbourne,AUS,54,52,W. Taumaunu,C. Kopua
+2011,Oct 30,,Constellation Cup,Test 3,AUS,Hisense Arena,Melbourne,AUS,41,44,W. Taumaunu,L. Langman*
+2011,Oct 26,,Constellation Cup,Test 2,AUS,Entertainment Centre,Adelaide,AUS,44,51,W. Taumaunu,L. Langman*
+2011,Oct 23,,Constellation Cup,Test 1,AUS,Burswood Dome,Perth,AUS,49,48,W. Taumaunu,L. Langman*
+2011,Oct 6,,Taini Jamison Trophy,Test 2,ENG,Velodrome,Invercargill,NZL,53,32,R. Aitken,L. Langman*
+2011,Oct 3,,Taini Jamison Trophy,Test 1,ENG,Trusts Stadium,Auckland,NZL,62,40,R. Aitken,L. Langman*
+2011,Jul 10,,Netball World Cup,Final,AUS,Indoor Stadium,Singapore City,SIN,57,58,R. Aitken,C. Kopua
+2011,Jul 9,,Netball World Cup,SF,ENG,Indoor Stadium,Singapore City,SIN,49,34,R. Aitken,C. Kopua
+2011,Jul 8,,Netball World Cup,QF,RSA,Indoor Stadium,Singapore City,SIN,58,28,R. Aitken,C. Kopua
+2011,Jul 6,,Netball World Cup,Pool,TTO,Indoor Stadium,Singapore City,SIN,75,23,R. Aitken,C. Kopua
+2011,Jul 5,,Netball World Cup,Pool,WAL,Indoor Stadium,Singapore City,SIN,91,21,R. Aitken,C. Kopua
+2011,Jul 4,,Netball World Cup,Pool,FIJ,Indoor Stadium,Singapore City,SIN,80,25,R. Aitken,C. Kopua
+2011,Jun 12,,Constellation Cup,Test 2,AUS,Vector Arena,Auckland,NZL,45,42,R. Aitken,C. Kopua
+2011,Jun 9,,Constellation Cup,Test 1,AUS,Arena Manawatu,Palmerston North,NZL,47,52,R. Aitken,C. Kopua
+2011,Jan 19,,Three Test Series,Test 3,ENG,The O2 Arena,London,ENG,47,40,R. Aitken,C. Kopua
+2011,Jan 17,,Three Test Series,Test 2,ENG,Capital FM Arena,Nottingham,ENG,41,39,R. Aitken,C. Kopua
+2011,Jan 15,,Three Test Series,Test 1,ENG,Evening News Arena,Manchester,ENG,42,40,R. Aitken,C. Kopua
+2010,Oct 14,,Commonwealth Games,Final,AUS,Thyagaraj Sports Complex,Delhi,IND,66,64,R. Aitken,C. Kopua
+2010,Oct 12,,Commonwealth Games,SF,JAM,Thyagaraj Sports Complex,Delhi,IND,59,43,R. Aitken,C. Kopua
+2010,Oct 10,,Commonwealth Games,,BAR,Thyagaraj Sports Complex,Delhi,IND,97,22,R. Aitken,C. Kopua
+2010,Oct 8,,Commonwealth Games,,RSA,Thyagaraj Sports Complex,Delhi,IND,70,29,R. Aitken,C. Kopua
+2010,Oct 7,,Commonwealth Games,,ENG,Thyagaraj Sports Complex,Delhi,IND,47,41,R. Aitken,C. Kopua
+2010,Oct 5,,Commonwealth Games,,COK,Thyagaraj Sports Complex,Delhi,IND,87,24,R. Aitken,C. Kopua
+2010,Oct 4,,Commonwealth Games,,PNG,Thyagaraj Sports Complex,Delhi,IND,102,21,R. Aitken,C. Kopua
+2010,Sep 5,,Constellation Cup,,AUS,Vector Arena,Auckland,NZL,40,46,R. Aitken,C. Kopua
+2010,Sep 2,,Constellation Cup,,AUS,TSB Arena,Wellington,NZL,59,40,R. Aitken,C. Kopua
+2010,Aug 29,,Constellation Cup,,AUS,Entertainment Centre,Adelaide,AUS,43,48,R. Aitken,C. Kopua
+2010,Aug 21,,Taini Jamison Trophy,,JAM,Pettigrew Green Arena,Napier,NZL,62,40,R. Aitken,C. Kopua
+2010,Aug 18,,Taini Jamison Trophy,,JAM,CBS Canterbury Arena,Christchurch,NZL,58,35,R. Aitken,C. Kopua
+2010,Aug 7,,Taini Jamison Trophy,,SAM,Te Rauparaha Arena,Porirua,NZL,92,28,R. Aitken,C. Kopua
+2009,Oct 22,,Test Series,,JAM,National Indoor Arena,Kingston,JAM,50,53,R. Aitken,C. Kopua
+2009,Oct 20,,Test Series,,JAM,National Indoor Arena,Kingston,JAM,61,56,R. Aitken,C. Kopua
+2009,Oct 15,,One Off Test,,ENG,University of Bath,Bath,ENG,65,59,R. Aitken,C. Kopua
+2009,Sep 23,,Test Series,,AUS,Vector Arena,Auckland,NZL,52,36,R. Aitken,C. Kopua
+2009,Sep 20,,Test Series,,AUS,Stadium Southland,Invercargill,NZL,46,47,R. Aitken,C. Kopua
+2009,Sep 13,,Three Test Series,,AUS,Convention & Exhibition Centre,Brisbane,AUS,33,36,R. Aitken,C. Kopua
+2009,Sep 9,,Three Test Series,,AUS,Hisense Arena,Melbourne,AUS,44,48,R. Aitken,C. Kopua
+2009,Sep 6,,Three Test Series,,AUS,Acer Arena,Sydney,AUS,53,50,R. Aitken,C. Kopua
+2009,Aug 29,,Taini Jamison Trophy,,W7,Trusts Stadium,Auckland,NZL,46,41,R. Aitken,C. Kopua
+2009,Aug 26,,Taini Jamison Trophy,,W7,Energy Events Centre,Rotorua,NZL,44,53,R. Aitken,C. Kopua
+2009,Aug 24,,Taini Jamison Trophy,,W7,TSB Arena,Wellington,NZL,44,48,R. Aitken,C. Kopua
+2008,Nov 2,,Test Series,,AUS,Entertainment Centre,Brisbane,AUS,41,43,R. Aitken,L. Langman*
+2008,Oct 26,,Test Series,,AUS,Hisense Arena,Melbourne,AUS,46,41,R. Aitken,C. Kopua*
+2008,Oct 18,,Taini Jamison Trophy,,ENG,Arena Manawatu,Palmerston North,NZL,61,22,R. Aitken,L. Langman*
+2008,Oct 15,,Taini Jamison Trophy,,ENG,Edgar Centre,Dunedin,NZL,38,40,R. Aitken,J. Seymour
+2008,Oct 13,,Taini Jamison Trophy,,ENG,Vector Arena,Auckland,NZL,65,26,R. Aitken,J. Seymour
+2008,Sep 20,,Test Series,,AUS,Vector Arena,Auckland,NZL,38,31,R. Aitken,J. Seymour
+2008,Sep 17,,Test Series,,AUS,Westpac Centre,Christchurch,NZL,51,53,R. Aitken,J. Seymour
+2007,Nov 17,,Netball World Cup,Final,AUS,Trusts Stadium,Auckland,NZL,38,42,R. Aitken,A. Wilson
+2007,Nov 16,,Netball World Cup,SF,JAM,Trusts Stadium,Auckland,NZL,59,49,R. Aitken,A. Wilson
+2007,Nov 15,,Netball World Cup,QF,RSA,Trusts Stadium,Auckland,NZL,82,23,R. Aitken,A. Wilson
+2007,Nov 13,,Netball World Cup,,BOT,Trusts Stadium,Auckland,NZL,76,20,R. Aitken,A. Wilson
+2007,Nov 12,,Netball World Cup,,WAL,Trusts Stadium,Auckland,NZL,86,24,R. Aitken,A. Wilson
+2007,Nov 10,,Netball World Cup,,MAW,Trusts Stadium,Auckland,NZL,85,26,R. Aitken,A. Wilson
+2007,Jul 24,,Test Series,,AUS,Distinctive Homes Dome,Adelaide,AUS,47,54,R. Aitken,A. Wilson
+2007,Jul 21,,Test Series,,AUS,Vodafone Arena,Melbourne,AUS,67,65,R. Aitken,A. Wilson
+2007,Jul 18,,One Off Test,,AUS,Vector Arena,Auckland,NZL,46,53,R. Aitken,A. Wilson
+2007,Jul 14,,Test Series,,JAM,Trusts Stadium,Auckland,NZL,68,46,R. Aitken,A. Wilson
+2007,Jul 12,,Test Series,,JAM,Westpac Centre,Christchurch,NZL,80,36,R. Aitken,A. Wilson
+2007,May 15,,Tri Nations Series,,AUS,National Indoor Arena,Birmingham,ENG,47,50,R. Aitken,A. Wilson
+2007,May 13,,Tri Nations Series,,ENG,Evening News Arena,Manchester,ENG,45,50,R. Aitken,A. Wilson
+2006,Oct 16,,Three Test Series,,AUS,Westpac Centre,Christchurch,NZL,40,46,R. Aitken,A. Wilson
+2006,Oct 14,,Three Test Series,,AUS,Trusts Stadium,Auckland,NZL,43,37,R. Aitken,A. Wilson
+2006,Oct 12,,Three Test Series,,AUS,The Events Centre,Wellington,NZL,47,51,R. Aitken,A. Wilson
+2006,Jul 31,,One Off Test,,RSA,Trusts Stadium,Auckland,NZL,94,25,R. Aitken,A. Wilson
+2006,Jul 25,,Test Series,,AUS,Acer Arena,Sydney,AUS,38,48,R. Aitken,A. Wilson
+2006,Jul 22,,Test Series,,AUS,Entertainment Centre,Brisbane,AUS,52,40,R. Aitken,A. Wilson
+2006,Mar 26,,Commonwealth Games,Final,AUS,Vodafone Arena,Melbourne,AUS,60,55,R. Aitken,A. Wilson
+2006,Mar 25,,Commonwealth Games,SF,JAM,Vodafone Arena,Melbourne,AUS,61,41,R. Aitken,A. Wilson
+2006,Mar 23,,Commonwealth Games,,MAW,State Netball Centre,Melbourne,AUS,67,39,R. Aitken,A. Wilson
+2006,Mar 22,,Commonwealth Games,,ENG,State Netball Centre,Melbourne,AUS,55,40,R. Aitken,A. Wilson
+2006,Mar 21,,Commonwealth Games,,RSA,State Netball Centre,Melbourne,AUS,74,37,R. Aitken,A. Wilson
+2006,Mar 19,,Commonwealth Games,,FIJ,State Netball Centre,Melbourne,AUS,80,26,R. Aitken,A. Wilson
+2006,Mar 17,,Commonwealth Games,,VIN,State Netball Centre,Melbourne,AUS,98,31,R. Aitken,A. Wilson
+2005,Nov 15,,Jamaican Tri Series,,JAM,The Arena,Kingston,JAM,67,32,R. Aitken,A. Wilson
+2005,Nov 14,,Jamaican Tri Series,,BAR,The Arena,Kingston,JAM,77,21,R. Aitken,A. Wilson
+2005,Nov 13,,Jamaican Tri Series,,JAM,The Arena,Kingston,JAM,57,39,R. Aitken,A. Wilson
+2005,Oct 29,,One Off Test,,AUS,Trusts Stadium,Auckland,NZL,61,36,R. Aitken,A. Wilson
+2005,Jun 29,,One Off Test,,AUS,SuperDome,Sydney,AUS,50,43,R. Aitken,A. Wilson
+2005,Mar 19,,Three Test Series,,ENG,Stadium Southland,Invercargill,NZL,55,40,R. Aitken,A. Wilson
+2005,Mar 16,,Three Test Series,,ENG,The Events Centre,Wellington,NZL,74,30,R. Aitken,A. Wilson
+2005,Mar 12,,Three Test Series,,ENG,North Shore Events Centre,Auckland,NZL,52,30,R. Aitken,A. Wilson
+2004,Nov 20,,Three Test Series,,AUS,Vodafone Arena,Melbourne,AUS,51,53,R. Aitken,A. Wilson
+2004,Nov 16,,Three Test Series,,AUS,Challenge Stadium,Perth,AUS,50,42,R. Aitken,A. Wilson
+2004,Nov 13,,Three Test Series,,AUS,SuperDome,Sydney,AUS,49,54,R. Aitken,A. Wilson
+2004,Jul 5,,Three Test Series,,AUS,Mystery Creek Events Centre,Hamilton,NZL,53,46,R. Aitken,A. Stanley
+2004,Jul 2,,Three Test Series,,AUS,Arena Manawatu,Palmerston North,NZL,52,50,R. Aitken,A. Stanley
+2004,Jun 30,,Three Test Series,,AUS,Westpac Centre,Christchurch,NZL,54,45,R. Aitken,A. Stanley
+2003,Jul 20,,Netball World Cup,Final,AUS,The Arena,Kingston,JAM,49,47,R. Aitken,A. Stanley
+2003,Jul 19,,Netball World Cup,SF,JAM,The Arena,Kingston,JAM,56,37,R. Aitken,A. Stanley
+2003,Jul 18,,Netball World Cup,QF,SAM,The Arena,Kingston,JAM,81,28,R. Aitken,A. Stanley
+2003,Jul 16,,Netball World Cup,,FIJ,The Arena,Kingston,JAM,79,24,R. Aitken,A. Stanley
+2003,Jul 15,,Netball World Cup,,ENG,The Arena,Kingston,JAM,60,41,R. Aitken,A. Stanley
+2003,Jul 14,,Netball World Cup,,COK,The Arena,Kingston,JAM,107,17,R. Aitken,A. Stanley
+2003,Jul 13,,Netball World Cup,,BAR,The Arena,Kingston,JAM,84,45,R. Aitken,A. Stanley
+2003,Jul 12,,Netball World Cup,,NIU,The Arena,Kingston,JAM,99,11,R. Aitken,A. Stanley
+2003,Jun 13,,Three Test Series,,ENG,North Shore Events Centre,Auckland,NZL,48,41,R. Aitken,A. Stanley
+2003,Jun 11,,Three Test Series,,ENG,Queens Wharf Stadium,Wellington,NZL,55,35,R. Aitken,A. Stanley
+2003,Jun 9,,Three Test Series,,ENG,Westpac Centre,Christchurch,NZL,65,41,R. Aitken,A. Stanley
+2003,Feb 28,,NZ Tour to England,,ENG,London Arena,London,ENG,64,45,R. Aitken,A. Stanley
+2003,Feb 26,,NZ Tour to England,,ENG,NEC Arena,Birmingham,ENG,61,40,R. Aitken,A. Stanley
+2003,Feb 24,,NZ Tour to England,,ENG,Evening News Arena,Manchester,ENG,52,36,R. Aitken,A. Stanley
+2002,Nov 2,,Test Series,,RSA,Westpac Centre,Christchurch,NZL,86,37,R. Aitken,A. Stanley
+2002,Nov 1,,Test Series,,RSA,North Shore Events Centre,Auckland,NZL,71,33,R. Aitken,A. Stanley
+2002,Aug 4,,Commonwealth Games,Final,AUS,Evening News Arena,Manchester,ENG,55,57,R. Aitken,J. Seymour
+2002,Aug 2,,Commonwealth Games,SF,JAM,Evening News Arena,Manchester,ENG,69,51,R. Aitken,J. Seymour
+2002,Jul 30,,Commonwealth Games,,WAL,Evening News Arena,Manchester,ENG,81,23,R. Aitken,J. Seymour
+2002,Jul 29,,Commonwealth Games,,ENG,Evening News Arena,Manchester,ENG,67,35,R. Aitken,J. Seymour
+2002,Jul 28,,Commonwealth Games,,SRI,Evening News Arena,Manchester,ENG,116,26,R. Aitken,J. Seymour
+2002,Jul 27,,Commonwealth Games,,CAN,Evening News Arena,Manchester,ENG,101,17,R. Aitken,J. Seymour
+2002,Jul 3,,Three Test Series,,BAR,North Shore Events Centre,Auckland,NZL,84,22,R. Aitken,J. Seymour
+2002,Jul 1,,Three Test Series,,BAR,Queens Wharf Stadium,Wellington,NZL,87,35,R. Aitken,J. Seymour
+2002,Jun 29,,Three Test Series,,BAR,Stadium Southland,Invercargill,NZL,88,27,R. Aitken,J. Seymour
+2002,Mar 5,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,44,42,R. Aitken,J. Seymour
+2002,Mar 3,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,44,53,R. Aitken,J. Seymour
+2002,Mar 2,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,46,44,R. Aitken,J. Seymour
+2001,Oct 27,,Three Test Series,,AUS,Westpac Centre,Christchurch,NZL,46,50,Y. Willering,B. Mene
+2001,Oct 24,,Three Test Series,,AUS,Stadium Southland,Invercargill,NZL,58,47,Y. Willering,B. Mene
+2001,Oct 20,,Three Test Series,,AUS,Queens Wharf Stadium,Wellington,NZL,47,51,Y. Willering,B. Mene
+2001,Jul 14,,Three Test Series,,ENG,Mystery Creek Events Centre,Hamilton,NZL,69,47,Y. Willering,B. Mene
+2001,Jul 11,,Three Test Series,,ENG,Arena Manawatu,Palmerston North,NZL,65,29,Y. Willering,B. Mene
+2001,Jul 7,,Three Test Series,,ENG,Stadium Southland,Invercargill,NZL,78,30,Y. Willering,B. Mene
+2001,Jun 16,,Tri Nations Series,,AUS,State Sports Centre,Sydney,AUS,52,62,Y. Willering,B. Mene
+2001,Jun 15,,Tri Nations Series,,RSA,State Sports Centre,Sydney,AUS,86,30,Y. Willering,B. Mene
+2001,Jun 12,,Tri Nations Series,,RSA,AIS Arena,Canberra,AUS,74,37,Y. Willering,B. Mene
+2001,Jun 9,,Tri Nations Series,,AUS,State Netball Centre,Melbourne,AUS,55,40,Y. Willering,B. Mene
+2000,Nov 29,,Tri Nations Series,,RSA,Pietermaritzburg Girls HS,Pietermaritzburg,RSA,81,35,Y. Willering,B. Mene
+2000,Nov 28,,Tri Nations Series,,AUS,Pietermaritzburg Girls HS,Pietermaritzburg,RSA,52,40,Y. Willering,B. Mene
+2000,Nov 25,,Tri Nations Series,,RSA,Velodrome,Cape Town,RSA,88,34,Y. Willering,B. Mene
+2000,Jul 8,,Three Test Series,,W7,Mystery Creek Events Centre,Hamilton,NZL,60,47,Y. Willering,B. Mene
+2000,Jul 5,,Three Test Series,,W7,Westpac Centre,Christchurch,NZL,52,51,Y. Willering,B. Mene
+2000,Jul 1,,Three Test Series,,W7,Events Centre,Wellington,NZL,47,51,Y. Willering,B. Mene
+2000,Jun 28,,Test Series,,PAC,Manawatu Sports Stadium,Palmerston North,NZL,64,38,Y. Willering,B. Mene
+2000,Jun 27,,Test Series,,PAC,ASB Stadium,Auckland,NZL,77,35,Y. Willering,B. Mene
+2000,Jun 20,,One Off Test,,AUS,Entertainment Centre,Newcastle,AUS,30,53,Y. Willering,B. Mene
+1999,Oct 2,,Netball World Cup,Final,AUS,Westpac Centre,Christchurch,NZL,41,42,Y. Willering,B. Colling
+1999,Oct 1,,Netball World Cup,SF,JAM,Westpac Centre,Christchurch,NZL,55,53,Y. Willering,B. Colling
+1999,Sep 30,,Netball World Cup,,FIJ,Westpac Centre,Christchurch,NZL,81,38,Y. Willering,B. Colling
+1999,Sep 29,,Netball World Cup,,TTO,Westpac Centre,Christchurch,NZL,74,41,Y. Willering,B. Colling
+1999,Sep 28,,Netball World Cup,,BAR,Westpac Centre,Christchurch,NZL,71,35,Y. Willering,B. Colling
+1999,Sep 27,,Netball World Cup,,NIR,Westpac Centre,Christchurch,NZL,92,26,Y. Willering,B. Colling
+1999,Sep 26,,Netball World Cup,,RSA,Westpac Centre,Christchurch,NZL,68,39,Y. Willering,B. Colling
+1999,Sep 25,,Netball World Cup,,COK,Westpac Centre,Christchurch,NZL,74,43,Y. Willering,B. Colling
+1999,Sep 23,,Netball World Cup,,WAL,Westpac Centre,Christchurch,NZL,73,27,Y. Willering,B. Colling
+1999,Sep 22,,Netball World Cup,,CAN,Westpac Centre,Christchurch,NZL,90,22,Y. Willering,B. Colling
+1999,Jun 22,,Three Test Series,,RSA,ASB Stadium,Auckland,NZL,65,47,Y. Willering,B. Colling
+1999,Jun 19,,Three Test Series,,RSA,Westpac Centre,Christchurch,NZL,82,39,Y. Willering,B. Colling
+1999,Jun 16,,Three Test Series,,RSA,Queens Wharf Stadium,Wellington,NZL,72,33,Y. Willering,B. Colling
+1999,Feb 27,,One Off Test,,AUS,Westpac Centre,Christchurch,NZL,60,48,Y. Willering,B. Colling
+1999,Feb 7,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,62,47,Y. Willering,B. Colling
+1999,Feb 5,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,54,54,Y. Willering,B. Colling
+1998,Sep 21,,Commonwealth Games,Final,AUS,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,39,42,Y. Willering,B. Colling
+1998,Sep 19,,Commonwealth Games,Semi-Final,ENG,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,70,30,Y. Willering,B. Colling
+1998,Sep 18,,Commonwealth Games,,RSA,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,63,35,Y. Willering,B. Colling
+1998,Sep 17,,Commonwealth Games,,SRI,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,92,16,Y. Willering,B. Colling
+1998,Sep 16,,Commonwealth Games,,WAL,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,94,21,Y. Willering,B. Colling
+1998,Sep 15,,Commonwealth Games,,COK,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,90,28,Y. Willering,B. Colling
+1998,Sep 14,,Commonwealth Games,,MAW,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,77,41,Y. Willering,B. Colling
+1998,May 26,,Three Test Series,,AUS,Edgar Centre,Dunedin,NZL,48,52,Y. Willering,B. Colling
+1998,May 23,,Three Test Series,,AUS,Events Centre,Wellington,NZL,49,58,Y. Willering,B. Colling
+1998,May 20,,Three Test Series,,AUS,Mystery Creek Stadium,Hamilton,NZL,47,58,Y. Willering,B. Colling
+1997,Dec 17,,One Off Test,,MAS,"Stadium Juara, Bukit Kiara",Kuala Lumpur,MAS,69,19,Y. Willering,B. Colling
+1997,Dec 13,,NZ Tour to UK,,ENG,Newcastle Arena,Newcastle,ENG,70,45,Y. Willering,B. Colling
+1997,Dec 10,,NZ Tour to UK,,ENG,National Indoor Arena,Birmingham,ENG,53,41,Y. Willering,B. Colling
+1997,Dec 8,,NZ Tour to UK,,WAL,Welsh Institute,Cardiff,WAL,77,39,Y. Willering,B. Colling
+1997,Dec 6,,NZ Tour to UK,,ENG,Brighton Centre,Brighton,ENG,47,35,Y. Willering,B. Colling
+1997,Jul 30,,One Off Test,,AUS,Mystery Creek Stadium,Hamilton,NZL,43,49,Y. Willering,B. Mene
+1997,May 3,,Three Test Series,,JAM,ASB Stadium,Auckland,NZL,51,47,L. Gibbs,L. Rumball
+1997,Apr 29,,One Off Test,,COK,Events Centre,Wellington,NZL,78,39,L. Gibbs,L. Rumball
+1997,Apr 26,,Three Test Series,,JAM,Arena Manawatu,Palmerston North,NZL,55,43,L. Gibbs,L. Rumball
+1997,Apr 23,,Three Test Series,,JAM,Dunedin Stadium,Dunedin,NZL,64,44,L. Gibbs,L. Rumball
+1996,Nov 16,,One Off Test,,AUS,Entertainment Centre,Newcastle,AUS,41,52,L. Gibbs,L. Rumball
+1996,Jun 29,,Three Test Series,,AUS,Glasshouse,Melbourne,AUS,35,56,L. Gibbs,L. Rumball
+1996,Jun 26,,Three Test Series,,AUS,Clipsal Powerhouse,Adelaide,AUS,39,58,L. Gibbs,L. Rumball
+1996,Jun 22,,Three Test Series,,AUS,State Sports Centre,Sydney,AUS,40,49,L. Gibbs,L. Rumball
+1996,May 29,,Three Test Series,,RSA,ASB Stadium,Auckland,NZL,60,47,L. Gibbs,L. Rumball
+1996,May 25,,Three Test Series,,RSA,Arena Manawatu,Palmerston North,NZL,51,31,L. Gibbs,L. Rumball
+1996,May 21,,Three Test Series,,RSA,Dunedin Stadium,Dunedin,NZL,63,39,L. Gibbs,L. Rumball
+1995,Jul 28,,Netball World Cup,3v4,ENG,National Indoor Arena,Birmingham,ENG,60,31,L. Gibbs,S. Edge
+1995,Jul 27,,Netball World Cup,,COK,National Indoor Arena,Birmingham,ENG,81,49,L. Gibbs,S. Edge
+1995,Jul 26,,Netball World Cup,,SAM,National Indoor Arena,Birmingham,ENG,60,31,L. Gibbs,S. Edge
+1995,Jul 25,,Netball World Cup,,CAN,National Indoor Arena,Birmingham,ENG,78,37,L. Gibbs,S. Edge
+1995,Jul 23,,Netball World Cup,,BAR,National Indoor Arena,Birmingham,ENG,77,44,L. Gibbs,S. Edge
+1995,Jul 21,,Netball World Cup,,JAM,National Indoor Arena,Birmingham,ENG,70,52,L. Gibbs,S. Edge
+1995,Jul 20,,Netball World Cup,,AUS,National Indoor Arena,Birmingham,ENG,44,45,L. Gibbs,S. Edge
+1995,Jul 19,,Netball World Cup,,RSA,National Indoor Arena,Birmingham,ENG,57,59,L. Gibbs,S. Edge
+1995,Jul 18,,Netball World Cup,,CAY,National Indoor Arena,Birmingham,ENG,114,15,L. Gibbs,S. Edge
+1995,Jul 17,,Netball World Cup,,NAM,National Indoor Arena,Birmingham,ENG,87,22,L. Gibbs,S. Edge
+1995,Apr 20,,Three Test Series,,ENG,ASB Stadium,Auckland,NZL,55,36,L. Gibbs,S. Edge
+1995,Apr 15,,Three Test Series,,ENG,Arena Manawatu,Palmerston North,NZL,60,36,L. Gibbs,S. Edge
+1995,Apr 13,,One Off Test,,SAM,Cowles Stadium,Christchurch,NZL,70,30,L. Gibbs,S. Edge
+1995,Apr 11,,Three Test Series,,ENG,Dunedin Stadium,Dunedin,NZL,64,42,L. Gibbs,S. Edge
+1995,Mar 1,,One Off Test,,RSA,ASB Stadium,Auckland,NZL,67,49,L. Gibbs,S. Edge
+1994,Nov 8,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,72,44,L. Gibbs,S. Edge
+1994,Nov 6,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,66,41,L. Gibbs,S. Edge
+1994,Nov 2,,NZ Tour to Jamaica,,JAM,National Indoor Arena,Kingston,JAM,71,42,L. Gibbs,S. Edge
+1994,May 25,,Three Test Series,,AUS,ASB Stadium,Auckland,NZL,53,49,L. Gibbs,S. Edge
+1994,May 21,,Three Test Series,,AUS,Arena Manawatu,Palmerston North,NZL,44,47,L. Gibbs,S. Edge
+1994,May 17,,Three Test Series,,AUS,Dunedin Stadium,Dunedin,NZL,49,52,L. Gibbs,S. Edge
+1993,Aug 1,,World Games,,AUS,Houstrust,The Hague,NED,36,62,L. Gunson,J. Carter
+1993,Jul 31,,World Games,,ENG,Houstrust,The Hague,NED,57,29,L. Gunson,J. Carter
+1993,Jul 30,,World Games,,WAL,Houstrust,The Hague,NED,85,23,L. Gunson,J. Carter
+1993,Jul 29,,World Games,,JAM,Houstrust,The Hague,NED,60,47,L. Gunson,J. Carter
+1993,Jul 28,,World Games,,CAN,Houstrust,The Hague,NED,76,22,L. Gunson,J. Carter
+1993,May 22,,Test Series,,COK,Dunedin Stadium,Dunedin,NZL,76,52,L. Gunson,J. Carter
+1993,May 15,,Test Series,,NAM,Arena Manawatu,Palmerston North,NZL,94,16,L. Gunson,J. Carter
+1993,May 11,,Test Series,,COK,ASB Stadium,Auckland,NZL,71,48,L. Gunson,J. Carter
+1992,Nov 14,,NZ Tour to UK,,ENG,Granby Halls,Leicester,ENG,58,33,L. Gunson,J. Carter
+1992,Nov 12,,NZ Tour to UK,,ENG,G-Max Arena,Manchester,ENG,60,26,L. Gunson,J. Carter
+1992,Nov 7,,NZ Tour to UK,,ENG,Wembley Arena,London,ENG,62,34,L. Gunson,J. Carter
+1992,Jun 20,,Three Test Series,,AUS,Clipsal Powerhouse,Adelaide,AUS,37,64,L. Gunson,A. Noovao
+1992,Jun 17,,Three Test Series,,AUS,Entertainment Centre,Sydney,AUS,45,55,L. Gunson,A. Noovao
+1992,Jun 13,,Three Test Series,,AUS,Glasshouse,Melbourne,AUS,46,67,L. Gunson,A. Noovao
+1992,Apr 16,,TTO Tour to NZ,,TTO,Dunedin Stadium,Dunedin,NZL,57,53,L. Gunson,A. Noovao
+1992,Apr 11,,TTO Tour to NZ,,TTO,Manawatu Sports Stadium,Palmerston North,NZL,57,47,L. Gunson,A. Noovao
+1992,Apr 7,,TTO Tour to NZ,,TTO,ASB Stadium,Auckland,NZL,52,42,L. Gunson,A. Noovao
+1991,Jul 13,,Netball World Cup,Final,AUS,Entertainment Centre,Sydney,AUS,52,53,L. Gunson,W. Taumaunu
+1991,Jul 12,,Netball World Cup,Semi-Final,ENG,State Sports Centre,Sydney,AUS,53,33,L. Gunson,W. Taumaunu
+1991,Jul 11,,Netball World Cup,,COK,Entertainment Centre,Sydney,AUS,94,40,L. Gunson,W. Taumaunu
+1991,Jul 10,,Netball World Cup,,IRL,State Sports Centre,Sydney,AUS,86,26,L. Gunson,W. Taumaunu
+1991,Jul 8,,Netball World Cup,,HKG,State Sports Centre,Sydney,AUS,104,14,L. Gunson,W. Taumaunu
+1991,Jul 7,,Netball World Cup,,CAN,State Sports Centre,Sydney,AUS,86,24,L. Gunson,W. Taumaunu
+1991,Jul 6,,Netball World Cup,,JAM,Entertainment Centre,Sydney,AUS,68,63,L. Gunson,W. Taumaunu
+1991,Jul 4,,Netball World Cup,,NAM,State Sports Centre,Sydney,AUS,78,44,L. Gunson,W. Taumaunu
+1991,Jul 3,,Netball World Cup,,NIR,State Sports Centre,Sydney,AUS,93,21,L. Gunson,W. Taumaunu
+1991,Jul 2,,Netball World Cup,,VAN,State Sports Centre,Sydney,AUS,96,27,L. Gunson,W. Taumaunu
+1991,Jul 1,,Netball World Cup,,PNG,State Sports Centre,Sydney,AUS,91,29,L. Gunson,W. Taumaunu
+1991,Apr 17,,Three Test Series,,ENG,Dunedin Stadium,Dunedin,NZL,57,44,L. Gunson,W. Taumaunu
+1991,Apr 13,,Three Test Series,,ENG,Manawatu Sports Stadium,Palmerston North,NZL,57,25,L. Gunson,W. Taumaunu
+1991,Apr 10,,Three Test Series,,ENG,ASB Stadium,Auckland,NZL,56,29,L. Gunson,W. Taumaunu
+1990,Jun 19,,Tri-Test Series,Final,AUS,Entertainment Centre,Sydney,AUS,40,52,L. Gunson,W. Taumaunu
+1990,Jun 16,,Tri-Test Series,,AUS,Glasshouse,Melbourne,AUS,57,51,L. Gunson,W. Taumaunu
+1990,Jun 13,,Tri-Test Series,,ENG,Apollo Stadium,Adelaide,AUS,61,41,L. Gunson,W. Taumaunu
+1990,Jun 10,,Tri-Test Series,,ENG,Superdome,Perth,AUS,42,38,L. Gunson,W. Taumaunu
+1990,Jun 9,,Tri-Test Series,,AUS,Superdome,Perth,AUS,42,44,L. Gunson,W. Taumaunu
+1990,May 2,,Three Test Series,,JAM,ASB Stadium,Auckland,NZL,69,21,L. Gunson,W. Taumaunu
+1990,Apr 28,,Three Test Series,,JAM,Manawatu Sports Stadium,Palmerston North,NZL,61,32,L. Gunson,W. Taumaunu
+1990,Apr 25,,Three Test Series,,JAM,Dunedin Stadium,Dunedin,NZL,64,35,L. Gunson,W. Taumaunu
+1990,Feb 2,,Commonwealth Games,,AUS,Chase Stadium,Auckland,NZL,35,53,L. Gunson,J. Townsend
+1989,Jul 27,,World Games,,AUS,Europehalle,Karlsrhue,GER,33,29,L. Gunson,W. Taumaunu
+1989,Jul 26,,World Games,,COK,Europehalle,Karlsrhue,GER,58,19,L. Gunson,W. Taumaunu
+1989,Jul 25,,World Games,,FIJ,Europehalle,Karlsrhue,GER,67,17,L. Gunson,W. Taumaunu
+1989,Jul 24,,World Games,,SCO,Europehalle,Karlsrhue,GER,58,9,L. Gunson,W. Taumaunu
+1989,Jul 24,,World Games,,ENG,Europehalle,Karlsrhue,GER,32,24,L. Gunson,W. Taumaunu
+1989,May 3,,Three Test Series,,AUS,Dunedin Stadium,Dunedin,NZL,49,37,L. Gunson,W. Taumaunu
+1989,Apr 29,,Three Test Series,,AUS,Manawatu Sports Stadium,Palmerston North,NZL,51,47,L. Gunson,W. Taumaunu
+1989,Apr 26,,Three Test Series,,AUS,Chase Stadium,Auckland,NZL,47,46,L. Gunson,W. Taumaunu
+1988,Nov 28,,NZ Tour to England,,ENG,G-Max Arena,Manchester,ENG,40,30,D. Muir,T. Fear
+1988,Nov 26,,NZ Tour to England,,ENG,Wembley Arena,London,ENG,47,25,D. Muir,T. Fear
+1988,Nov 23,,NZ Tour to England,,ENG,Gateshead Leisure Centre,Newcastle,ENG,46,27,D. Muir,T. Fear
+1988,May 11,,Three Test Series,,TTO,Cowles Stadium,Christchurch,NZL,48,25,D. Muir,T. Fear
+1988,May 7,,Three Test Series,,TTO,Manawatu Sports Stadium,Palmerston North,NZL,37,38,D. Muir,T. Fear
+1988,May 4,,Three Test Series,,TTO,Chase Stadium,Auckland,NZL,43,40,D. Muir,T. Fear
+1987,Aug 28,,Netball World Cup,,TTO,Crownpoint Sports Park,Glasgow,SCO,49,37,D. Muir,L. Gibbs
+1987,Aug 27,,Netball World Cup,,ENG,Crownpoint Sports Park,Glasgow,SCO,47,37,D. Muir,L. Gibbs
+1987,Aug 26,,Netball World Cup,,AUS,Crownpoint Sports Park,Glasgow,SCO,39,28,D. Muir,L. Gibbs
+1987,Aug 25,,Netball World Cup,,ENG,Crownpoint Sports Park,Glasgow,SCO,45,30,D. Muir,L. Gibbs
+1987,Aug 24,,Netball World Cup,,SCO,Crownpoint Sports Park,Glasgow,SCO,67,15,D. Muir,L. Gibbs
+1987,Aug 22,,Netball World Cup,,WAL,Crownpoint Sports Park,Glasgow,SCO,94,13,D. Muir,L. Gibbs
+1987,Aug 21,,Netball World Cup,,MAS,Crownpoint Sports Park,Glasgow,SCO,78,9,D. Muir,L. Gibbs
+1987,Aug 20,,Netball World Cup,,BER,Crownpoint Sports Park,Glasgow,SCO,89,8,D. Muir,L. Gibbs
+1987,Aug 19,,Netball World Cup,,IRL,Crownpoint Sports Park,Glasgow,SCO,81,16,D. Muir,L. Gibbs
+1987,Aug 17,,Netball World Cup,,COK,Crownpoint Sports Park,Glasgow,SCO,78,27,D. Muir,L. Gibbs
+1987,Aug 16,,Netball World Cup,,BAR,Crownpoint Sports Park,Glasgow,SCO,53,28,D. Muir,L. Gibbs
+1987,May 2,,Three Test Series,,ENG,Stanley Street Tennis Courts,Auckland,NZL,43,36,D. Muir,L. Gibbs
+1987,Apr 29,,Three Test Series,,ENG,Manawatu Sports Stadium,Palmerston North,NZL,42,36,D. Muir,L. Gibbs
+1987,Apr 25,,Three Test Series,,ENG,Dunedin Stadium,Dunedin,NZL,44,44,D. Muir,L. Gibbs
+1986,May 20,,Tri-Test Series,,AUS,Apollo Stadium,Adelaide,AUS,31,28,D. Muir,L. Gibbs
+1986,May 20,,Tri-Test Series,,JAM,Apollo Stadium,Adelaide,AUS,58,26,D. Muir,L. Gibbs
+1986,May 17,,Tri-Test Series,,JAM,Velodrome,Launceston,AUS,48,35,D. Muir,L. Gibbs
+1986,May 17,,Tri-Test Series,,AUS,Velodrome,Launceston,AUS,19,31,D. Muir,L. Gibbs
+1986,May 14,,Tri-Test Series,,JAM,State Sports Centre,Sydney,AUS,44,31,D. Muir,L. Gibbs
+1986,May 14,,Tri-Test Series,,AUS,State Sports Centre,Sydney,AUS,19,35,D. Muir,L. Gibbs
+1986,May 10,,Tri-Test Series,,AUS,Minogue Park,Hamilton,NZL,27,30,D. Muir,L. Gibbs
+1986,May 10,,Tri-Test Series,,JAM,Minogue Park,Hamilton,NZL,32,21,D. Muir,L. Gibbs
+1986,May 6,,Tri-Test Series,,JAM,Manawatu Sports Stadium,Palmerston North,NZL,40,38,D. Muir,L. Gibbs
+1986,May 6,,Tri-Test Series,,AUS,Manawatu Sports Stadium,Palmerston North,NZL,27,33,D. Muir,L. Gibbs
+1986,May 3,,Tri-Test Series,,JAM,Cowles Stadium,Christchurch,NZL,39,39,D. Muir,L. Gibbs
+1986,May 3,,Tri-Test Series,,AUS,Cowles Stadium,Christchurch,NZL,27,37,D. Muir,L. Gibbs
+1985,Aug 4,,World Games,,AUS,Crystal Palace,London,ENG,39,37,D. Muir,L. Gunson
+1985,Aug 4,,World Games,,NIR,Crystal Palace,London,ENG,52,15,D. Muir,L. Gunson
+1985,Aug 3,,World Games,,ENG,Crystal Palace,London,ENG,34,29,D. Muir,L. Gunson
+1985,Aug 3,,World Games,,JAM,Crystal Palace,London,ENG,35,31,D. Muir,L. Gunson
+1985,Aug 2,,World Games,,SCO,Crystal Palace,London,ENG,39,8,D. Muir,L. Gunson
+1985,Jul 24,,NZ Tour to UK,,SCO,John Wright Sports Centre,Glasgow,SCO,75,14,D. Muir,L. Gunson
+1985,Jul 21,,NZ Tour to UK,,SCO,Bellahouston Sports Centre,Glasgow,SCO,64,14,D. Muir,L. Gunson
+1985,Jul 19,,NZ Tour to UK,,NIR,Bangor Leisure Centre,Belfast,NIR,69,10,D. Muir,L. Gunson
+1985,Jul 17,,NZ Tour to UK,,NIR,Templemore Leisure Centre,Belfast,NIR,63,23,D. Muir,L. Gunson
+1985,Feb 10,,TTO Tour to NZ,,TTO,Manawatu Sports Stadium,Palmerston North,NZL,41,36,D. Muir,L. Gunson
+1985,Feb 8,,TTO Tour to NZ,,TTO,Stanley Street Tennis Courts,Auckland,NZL,35,30,D. Muir,L. Gunson
+1985,Feb 3,,Australia Games,Final,AUS,Festival Hall,Melbourne,AUS,31,27,D. Muir,L. Gunson
+1985,Feb 3,,Australia Games,Semi-Final,ENG,Festival Hall,Melbourne,AUS,32,20,D. Muir,L. Gunson
+1985,Feb 2,,Australia Games,,TTO,Festival Hall,Melbourne,AUS,37,20,D. Muir,L. Gunson
+1985,Feb 2,,Australia Games,,ENG,Festival Hall,Melbourne,AUS,23,19,D. Muir,L. Gunson
+1985,Feb 1,,Australia Games,,AUS,Festival Hall,Melbourne,AUS,27,27,D. Muir,L. Gunson
+1983,Jun 24,,Netball World Cup,,AUS,National University,Kent Ridge,SIN,42,47,D. Muir,L. Gunson
+1983,Jun 22,,Netball World Cup,,ENG,National University,Kent Ridge,SIN,55,34,D. Muir,L. Gunson
+1983,Jun 21,,Netball World Cup,,TTO,National University,Kent Ridge,SIN,35,30,D. Muir,L. Gunson
+1983,Jun 20,,Netball World Cup,,ENG,National University,Kent Ridge,SIN,51,36,D. Muir,L. Gunson
+1983,Jun 18,,Netball World Cup,,SRI,National University,Kent Ridge,SIN,76,19,D. Muir,L. Gunson
+1983,Jun 17,,Netball World Cup,,NIR,National University,Kent Ridge,SIN,63,22,D. Muir,L. Gunson
+1983,Jun 14,,Netball World Cup,,CAN,National University,Kent Ridge,SIN,76,12,D. Muir,L. Gunson
+1983,Jun 13,,Netball World Cup,,JAM,National University,Kent Ridge,SIN,45,42,D. Muir,L. Gunson
+1983,Jun 11,,Netball World Cup,,HKG,National University,Kent Ridge,SIN,85,4,D. Muir,L. Gunson
+1982,Nov 27,,NZ Tour to UK,,ENG,Wembley Arena,London,ENG,64,38,D. Muir,L. Gunson
+1982,Nov 22,,NZ Tour to UK,,WAL,National Sports Stadium,Cardiff,WAL,86,26,D. Muir,L. Gunson
+1982,Nov 20,,NZ Tour to UK,,ENG,Concord Sports Centre,Sheffield,ENG,56,34,D. Muir,L. Gunson
+1982,Nov 17,,NZ Tour to UK,,SCO,Gateshead Leisure Centre,Newcastle,ENG,46,16,D. Muir,L. Gunson
+1982,Nov 13,,NZ Tour to UK,,ENG,Aston Villa Sports Leisure Centre,Birmingham,ENG,54,36,D. Muir,L. Gunson
+1982,Jul 17,,AUS Tour to NZL,,AUS,Hagley Park Courts,Christchurch,NZL,28,33,D. Muir,L. Gunson
+1982,Jul 14,,AUS Tour to NZL,,AUS,Manawatu Sports Stadium,Palmerston North,NZL,53,52,D. Muir,L. Gunson
+1982,Jul 10,,AUS Tour to NZL,,AUS,Stanley Street Tennis Courts,Auckland,NZL,54,41,D. Muir,L. Gunson
+1981,Jun 23,,Tri-Test Series,,AUS,Festival Hall,Melbourne,AUS,37,34,D. Muir,L. Gunson
+1981,Jun 23,,Tri-Test Series,,ENG,Festival Hall,Melbourne,AUS,35,29,D. Muir,L. Gunson
+1981,Jun 20,,Tri-Test Series,,AUS,Hordern Pavilion,Sydney,AUS,48,29,D. Muir,L. Gunson
+1981,Jun 20,,Tri-Test Series,,ENG,Hordern Pavilion,Sydney,AUS,34,20,D. Muir,L. Gunson
+1981,Jun 17,,Tri-Test Series,,AUS,Chandler Complex,Brisbane,AUS,37,32,D. Muir,L. Gunson
+1981,Jun 17,,Tri-Test Series,,ENG,Chandler Complex,Brisbane,AUS,30,21,D. Muir,L. Gunson
+1981,Jun 13,,ENG Tour to NZL,,ENG,Cobham Courts,Hamilton,NZL,47,43,D. Muir,L. Gunson
+1981,Jun 10,,ENG Tour to NZL,,ENG,Indoor Tennis Stadium,Wellington,NZL,46,46,D. Muir,L. Gunson
+1981,Jun 6,,ENG Tour to NZL,,ENG,Dunedin Stadium,Dunedin,NZL,48,40,D. Muir,L. Gunson
+1979,Sep 8,,NZ Tour to England,,ENG,Concord Sports Centre,Sheffield,ENG,52,43,D. Muir,L. Gunson
+1979,Sep 1,,NZ Tour to England,,ENG,Bletchley Leisure Centre,Milton Keynes,ENG,56,41,D. Muir,L. Gunson
+1979,Aug 25,,Netball World Cup,,TTO,West Reg Park Complex,Port of Spain,TTO,33,27,D. Muir,L. Gunson
+1979,Aug 24,,Netball World Cup,,WAL,West Reg Park Complex,Port of Spain,TTO,56,23,D. Muir,L. Gunson
+1979,Aug 23,,Netball World Cup,,BAR,West Reg Park Complex,Port of Spain,TTO,60,28,D. Muir,L. Gunson
+1979,Aug 22,,Netball World Cup,,AUS,West Reg Park Complex,Port of Spain,TTO,36,38,D. Muir,L. Gunson
+1979,Aug 21,,Netball World Cup,,ENG,West Reg Park Complex,Port of Spain,TTO,53,26,D. Muir,L. Gunson
+1979,Aug 20,,Netball World Cup,,SKN,West Reg Park Complex,Port of Spain,TTO,58,26,D. Muir,L. Gunson
+1979,Aug 18,,Netball World Cup,,SCO,West Reg Park Complex,Port of Spain,TTO,58,17,D. Muir,L. Gunson
+1979,Aug 17,,Netball World Cup,,IRL,West Reg Park Complex,Port of Spain,TTO,95,7,D. Muir,L. Gunson
+1979,Aug 16,,Netball World Cup,,JAM,West Reg Park Complex,Port of Spain,TTO,56,28,D. Muir,L. Gunson
+1979,Aug 15,,Netball World Cup,,BAR,West Reg Park Complex,Port of Spain,TTO,41,24,D. Muir,L. Gunson
+1979,Aug 14,,Netball World Cup,,ANT,West Reg Park Complex,Port of Spain,TTO,62,29,D. Muir,L. Gunson
+1979,Aug 13,,Netball World Cup,,LCA,West Reg Park Complex,Port of Spain,TTO,48,27,D. Muir,L. Gunson
+1979,Aug 7,,Pre-International Tournament,,JAM,National Indoor Arena,Kingston,JAM,53,31,D. Muir,L. Gunson
+1979,Aug 4,,Pre-International Tournament,,JAM,National Indoor Arena,Kingston,JAM,35,31,D. Muir,L. Gunson
+1979,Aug 2,,Pre-International Tournament,,JAM,National Indoor Arena,Kingston,JAM,58,30,D. Muir,L. Gunson
+1978,Apr 29,,TTO Tour to NZ,,TTO,Hagley Park Courts,Christchurch,NZL,29,28,D. Muir,L. Gunson
+1978,Apr 27,,TTO Tour to NZ,,TTO,Vautier Park,Palmerston North,NZL,36,36,D. Muir,L. Gunson
+1975,Sep 4,,Netball World Cup,,AUS,Windmill Road Courts,Auckland,NZL,34,34,D. Muir,S. Langrope
+1975,Sep 3,,Netball World Cup,,SCO,Windmill Road Courts,Auckland,NZL,81,35,D. Muir,S. Langrope
+1975,Sep 2,,Netball World Cup,,ENG,Windmill Road Courts,Auckland,NZL,38,39,D. Muir,S. Langrope
+1975,Sep 1,,Netball World Cup,,PNG,Windmill Road Courts,Auckland,NZL,103,15,D. Muir,S. Langrope
+1975,Aug 29,,Netball World Cup,,TTO,Windmill Road Courts,Auckland,NZL,49,33,D. Muir,S. Langrope
+1975,Aug 28,,Netball World Cup,,SIN,Windmill Road Courts,Auckland,NZL,64,17,D. Muir,S. Langrope
+1975,Aug 27,,Netball World Cup,,WAL,Windmill Road Courts,Auckland,NZL,88,16,D. Muir,S. Langrope
+1975,Aug 26,,Netball World Cup,,FIJ,Windmill Road Courts,Auckland,NZL,96,25,D. Muir,S. Langrope
+1975,Aug 25,,Netball World Cup,,NIR,Windmill Road Courts,Auckland,NZL,80,11,D. Muir,S. Langrope
+1975,Aug 23,,Netball World Cup,,JAM,Windmill Road Courts,Auckland,NZL,58,23,D. Muir,S. Langrope
+1974,Nov 23,,NZ Tour to England,,ENG,Washington Sports Stadium,Durham,ENG,52,42,D. Muir,S. Langrope
+1974,Nov 9,,NZ Tour to England,,ENG,"Empire Pool, Wembley",London,ENG,47,44,D. Muir,C. Pietzner*
+1974,Oct 26,,NZ Tour to England,,ENG,Northwood Sports Stadium,Stoke-on-Trent,ENG,53,46,D. Muir,L. Gunson*
+1974,Oct 16,,NZ Tour to England,,SIN,National University,Kent Ridge,SIN,117,9,D. Muir,S. Langrope
+1971,Jan 12,,Netball World Cup,,AUS,National Stadium,Kingston,JAM,42,48,T. Jamison,J. Harnett
+1971,Jan 9,,Netball World Cup,,JAM,National Stadium,Kingston,JAM,52,32,T. Jamison,J. Harnett
+1971,Jan 8,,Netball World Cup,,TTO,National Stadium,Kingston,JAM,47,33,T. Jamison,J. Harnett
+1971,Jan 6,,Netball World Cup,,ENG,National Stadium,Kingston,JAM,42,40,,J. Harnett
+1971,Jan 5,,Netball World Cup,,WAL,National Stadium,Kingston,JAM,83,21,,J. Harnett
+1971,Jan 2,,Netball World Cup,,BAR,National Stadium,Kingston,JAM,108,10,T. Jamison,J. Harnett
+1971,Jan 1,,Netball World Cup,,SCO,National Stadium,Kingston,JAM,61,17,T. Jamison,J. Harnett
+1970,Dec 31,,Netball World Cup,,NIR,National Stadium,Kingston,JAM,90,12,T. Jamison,J. Harnett
+1970,Dec 19,,Pre-International Tournament,,BAR,YMCA Stadium,Bridgetown,BAR,63,20,T. Jamison,J. Harnett
+1970,Dec 18,,Pre-International Tournament,,BAR,YMCA Stadium,Bridgetown,BAR,52,19,T. Jamison,J. Harnett
+1970,Nov 3,,One Off Test,,SIN,,Kent Ridge,SIN,42,11,T. Jamison,J. Harnett
+1969,Jun 27,,AUS Tour to NZL,,ANT,St Kilda Courts,Dunedin,NZL,43,39,T. Jamison,J. Harnett
+1969,Jun 20,,AUS Tour to NZL,,AUS,Haitai Courts,Wellington,NZL,39,49,T. Jamison,J. Harnett
+1967,Aug 26,,Netball World Cup,,AUS,Matthews Centre,Perth,AUS,40,34,T. Jamison,J. Blair
+1967,Aug 25,,Netball World Cup,,SIN,Matthews Centre,Perth,AUS,74,5,T. Jamison,J. Blair
+1967,Aug 23,,Netball World Cup,,TTO,Matthews Centre,Perth,AUS,53,28,T. Jamison,J. Blair
+1967,Aug 22,,Netball World Cup,,JAM,Matthews Centre,Perth,AUS,51,20,T. Jamison,J. Blair
+1967,Aug 19,,Netball World Cup,,ENG,Matthews Centre,Perth,AUS,50,24,T. Jamison,J. Blair
+1967,Aug 17,,Netball World Cup,,SCO,Matthews Centre,Perth,AUS,76,14,T. Jamison,J. Blair
+1967,Aug 14,,Netball World Cup,,RSA,Matthews Centre,Perth,AUS,41,39,T. Jamison,J. Blair
+1963,Aug 14,,Netball World Cup,,WI,Chelsea College PE,Eastbourne,ENG,73,23,D. Cockerton,P. Barham
+1963,Aug 13,,Netball World Cup,,WAL,Chelsea College PE,Eastbourne,ENG,88,15,D. Cockerton,P. Barham
+1963,Aug 12,,Netball World Cup,,SCO,Chelsea College PE,Eastbourne,ENG,85,7,D. Cockerton,P. Barham
+1963,Aug 10,,Netball World Cup,,RSA,Chelsea College PE,Eastbourne,ENG,60,13,D. Cockerton,P. Barham
+1963,Aug 8,,Netball World Cup,,AUS,Chelsea College PE,Eastbourne,ENG,36,37,D. Cockerton,P. Barham
+1963,Aug 7,,Netball World Cup,,TTO,Chelsea College PE,Eastbourne,ENG,51,23,D. Cockerton,P. Barham
+1963,Aug 6,,Netball World Cup,,ENG,Chelsea College PE,Eastbourne,ENG,56,29,D. Cockerton,P. Barham
+1963,Aug 5,,Netball World Cup,,SRI,Chelsea College PE,Eastbourne,ENG,89,9,D. Cockerton,P. Barham
+1963,Aug 3,,Netball World Cup,,JAM,Chelsea College PE,Eastbourne,ENG,61,31,D. Cockerton,P. Barham
+1963,Aug 2,,Netball World Cup,,NIR,Chelsea College PE,Eastbourne,ENG,112,4,D. Cockerton,P. Barham
+1960,Sep 3,,NZ Tour to Australia,,AUS,Raleigh Park Kensington,Sydney,AUS,45,46,D. Cockerton,D. Mariu
+1960,Aug 27,,NZ Tour to Australia,,AUS,Royal Park,Melbourne,AUS,39,44,D. Cockerton,D. Mariu
+1960,Aug 20,,NZ Tour to Australia,,AUS,Memorial Drive Courts,Adelaide,AUS,49,40,D. Cockerton,D. Mariu
+1948,Sep 11,,AUS Tour to NZL,,AUS,Windmill Road Courts,Auckland,NZL,22,44,M. Muir,B. Plant
+1948,Aug 28,,AUS Tour to NZL,,AUS,Waiwakaiho Courts,New Plymouth,NZL,13,44,M. Muir,B. Malcolm
+1948,Aug 14,,AUS Tour to NZL,,AUS,Forbury Park,Dunedin,NZL,16,27,M. Muir,O. Shannahan
+1938,Aug 20,,One Off Test,,AUS,Royal Park,Melbourne,AUS,11,40,M. Muir,M. Matangi
