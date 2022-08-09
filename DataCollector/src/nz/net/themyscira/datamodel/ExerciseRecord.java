@@ -13,4 +13,8 @@ public class ExerciseRecord {
 		return this.recordID;
 	}
 	
+	public static int numRecords() {
+		return nextRecordID - 1;
+	}
+	
 }

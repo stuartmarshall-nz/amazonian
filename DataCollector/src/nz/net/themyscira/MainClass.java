@@ -13,8 +13,6 @@ public class MainClass {
 		
 //		MainWindow win = new MainWindow();
 		
-		ExerciseRecord rec = new ExerciseRecord();
-		System.out.println("ID of new record is: " + rec.getRecordID());
 		Application.launch(MainWindow.class, args);
 	}
 	
