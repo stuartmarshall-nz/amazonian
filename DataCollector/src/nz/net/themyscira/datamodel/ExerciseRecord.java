@@ -15,6 +15,10 @@ public class ExerciseRecord {
 		return this.recordID;
 	}
 	
+	public void setData(String newData) {
+		this.data = newData;
+	}
+	
 	public static int numRecords() {
 		return nextRecordID - 1;
 	}
