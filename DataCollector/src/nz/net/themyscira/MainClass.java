@@ -2,7 +2,7 @@ package nz.net.themyscira;
 
 import nz.net.themyscira.ui.*;
 
-import nz.net.themyscira.datamodel.*;
+//import nz.net.themyscira.datamodel.*;
 import javafx.application.Application;
 
 
