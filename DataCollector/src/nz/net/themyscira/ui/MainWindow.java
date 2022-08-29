@@ -28,7 +28,13 @@ public class MainWindow extends Application {
 //            }
 //        });
 //		
-		
+
+		showRecords.setOnAction(new EventHandler<ActionEvent>() {
+			@Override
+			public void handle(ActionEvent event) {
+				System.out.println("Hello World!");
+			}
+		});		
 		addRecord.setOnAction((event) -> {
 			ExerciseRecord rec = new ExerciseRecord();
 			System.out.println("ID of new record is: " + rec.getRecordID());
