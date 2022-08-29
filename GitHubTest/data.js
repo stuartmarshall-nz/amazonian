@@ -9,4 +9,3 @@ function calculateDaysBetweenDates(begin, end) {
 function calculateMax(num1, num2) {
     return Math.max(num1, num2);
 }
-}
